@@ -1,2 +1,2 @@
-webspecialisatie
-================
+Web specialisatie: Drupal
+=========================
