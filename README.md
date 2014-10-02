@@ -1,7 +1,7 @@
 # Web specialisatie: Drupal
 
-** Boek: ** Basis Cursus Drupal 7
-** Auteur: ** Eric Tiggeler
+**Boek:** Basis Cursus Drupal 7
+**Auteur:** Eric Tiggeler
 
 Hoofdstuk 1 - 6 gelezen
 - Wat is Drupal?
