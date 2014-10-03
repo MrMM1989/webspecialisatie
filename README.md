@@ -25,6 +25,8 @@
 2. Eigen modules schrijven en gebruiken
 3. De module 'Views' bestuderen en leren gebruiken
 4. De lay-out van de site aanpassen (onder andere via themes)
+5. Werken met Users & Permissions
+6. SEO met Drupal
 
 
 
