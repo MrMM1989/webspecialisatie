@@ -27,6 +27,7 @@
 4. De lay-out van de site aanpassen (onder andere via themes)
 5. Werken met Users & Permissions
 6. SEO met Drupal
+7. Panopoly module onderzoeken & alle andere modules die daarvoor nodig zijn
 
 
 
