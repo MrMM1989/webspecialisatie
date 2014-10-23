@@ -11,12 +11,26 @@
   - Verschillende inhoudstypes (zoals basispagina, blogpagina, artikelpagina,...)
   - Homepage aanpassen 
   - Overzichtspagina's maken
+  
+**Boek:** Drupal Pro - **Auteur:** Albert Skibinski
+1. Hoofdstuk 2 gelezen over essentiële modules 
+  - De module "Chaos Tools (CTools)" (enkel wat het is)
+  - De module "Module filter"
+2. Hoofdstuk 7 gelezen over tools
+  - Drush de command line interface voor Drupal
 
 
 **Eigen Project:** Funparcs
 
 1. Drupal geïnstalleerd met een Nederlandstalige vertaling
-2. CKEditor en de IMCE module geïnstalleerd 
+2. CKEditor en de IMCE module geïnstalleerd
+3. Modules voor admin interface geïnstalleerd
+4. Enkele Drush commando's geoefend
+  - drush cc all => Wist alle caches
+  - drush cron => Voert Drupal Cron uit
+  - drush status => Algemene info over de site
+  - drush up => Update een project, alle modules en de drupal core en voert eventuele database updates uit
+  - drush up drupal => Update een project, in dit geval alleen de drupal core
 
 
 **Geplande Zaken / To Do's**
@@ -28,6 +42,7 @@
 5. Werken met Users & Permissions
 6. SEO met Drupal
 7. Panopoly module onderzoeken & alle andere modules die daarvoor nodig zijn
+8. Leren werken met Drush
 
 
 
