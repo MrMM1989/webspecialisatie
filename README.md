@@ -13,6 +13,7 @@
   - Overzichtspagina's maken
   
 **Boek:** Drupal Pro - **Auteur:** Albert Skibinski
+
 1. Hoofdstuk 2 gelezen over essentiële modules 
   - De module "Chaos Tools (CTools)" (enkel wat het is)
   - De module "Module filter"
